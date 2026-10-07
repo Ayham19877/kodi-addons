@@ -118,6 +118,7 @@
   </extension>
 </addon>
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.multi-workingsources-w3uf6v" name="سورسات شغالة ✅" version="1.0.0" provider-name="Brio">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
