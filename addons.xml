@@ -142,6 +142,7 @@
 <addon id="plugin.video.multi-movieseries-7k2p9x" name="سورسات أفلام ومسلسلات ✅" version="1.0.3" provider-name="Brio">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="inputstream.adaptive" version="2.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
