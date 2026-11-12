@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <addons>
-  <addon id="plugin.video.multi-movieseries-7k2p9x" name="سورسات أفلام ومسلسلات" version="1.0.9" provider-name="Brio">
+  <addon id="plugin.video.multi-movieseries-7k2p9x" name="Shaheen Movies" version="1.0.10" provider-name="Brio">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="inputstream.adaptive" version="2.0.0" />
@@ -9,8 +9,8 @@
       <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-      <summary lang="ar">سورسات أفلام ومسلسلات — أقسام مجمّعة وبوسترات وإعدادات شغالة</summary>
-      <description lang="ar">سورسات أفلام ومسلسلات: 18 موقعاً (أكوام، كرمزي، لودينت، قصة عشق، قرمزي، سيما فور يو، سيما كلوب، إيجي بيست، عرب سيد، دراما كافيه، اهواك TV، فوستا، ديلي موشن، كيو فيلم، لاروزا، كيرمالك، تيكات، شوف لايف) + قسم «طلبات الايهم» بمكتبة وادي الذئاب الكاملة (19 جزءاً، 1328 حلقة) مع بوسترات حقيقية للأجزاء والحلقات. بحث شامل + ترتيب + علامة «شوهد» للحلقات. إعدادات شغالة: السيرفر المفضل، الجودة، إخفاء مواقع القوائم فقط، مسح علامات المشاهدة، والتحقق من التحديثات عبر مستودع Brio.</description>
+      <summary lang="ar">Shaheen Movies — أقسام مجمّعة وبوسترات وإعدادات شغالة</summary>
+      <description lang="ar">Shaheen Movies: 18 موقعاً (أكوام، كرمزي، لودينت، قصة عشق، قرمزي، سيما فور يو، سيما كلوب، إيجي بيست، عرب سيد، دراما كافيه، اهواك TV، فوستا، ديلي موشن، كيو فيلم، لاروزا، كيرمالك، تيكات، شوف لايف) + قسم «طلبات الايهم» بمكتبة وادي الذئاب الكاملة (19 جزءاً، 1328 حلقة) مع بوسترات حقيقية للأجزاء والحلقات. بحث شامل + ترتيب + علامة «شوهد» للحلقات. إعدادات شغالة: السيرفر المفضل، الجودة، إخفاء مواقع القوائم فقط، مسح علامات المشاهدة، والتحقق من التحديثات عبر مستودع Brio.</description>
       <platform>all</platform>
     </extension>
     <assets>
